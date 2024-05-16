@@ -1,4 +1,4 @@
-This portfolio is a road map I followed to analyze data cross platforms:
+This portfolio is a road map I followed to analyze data across platforms:
 1. Analyzing data and create tables and views for dashboard requirements in Micorsoft SQL Server.
 2. Import those tables onto tableau and build dashboards for data visualization.
 
